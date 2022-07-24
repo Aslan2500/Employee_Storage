@@ -13,4 +13,4 @@ All employees a stored in MySQL database viahibernate.
 
 I made this project in order to understand how to work with Spring MVC. 
 
-You can check slides to see how it works - [link](https://github.com/Aslan2500/Employee_Storage/blob/main/Demonstration.pdf) or you can simply go the demostration.pdf
+You can check slides to see how it works - [link](https://github.com/Aslan2500/Employee_Storage/blob/main/Demonstration.pdf) or you can simply go the demonstration.pdf
